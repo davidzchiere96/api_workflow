@@ -1,4 +1,4 @@
-# _API Workflow_
+# _API Workflow Scenario: "Feed Controller"_
 
 
 
@@ -9,11 +9,16 @@
 
 ####
 
-- Storage API: https://cloud.google.com/storage/docs?hl=it
-- BigQuery API: https://cloud.google.com/bigquery/docs/reference/rest
-- Airflow API: https://airflow.apache.org/docs/apache-airflow/stable/stable-rest-api-ref.html
+- Google Cloud Storage API: https://cloud.google.com/storage/docs?hl=it
+- Google Cloud BigQuery API: https://cloud.google.com/bigquery/docs/reference/rest
+- Apache Airflow API: https://airflow.apache.org/docs/apache-airflow/stable/stable-rest-api-ref.html
 
 ###
+
+### Description
+Design of a possible scenario solution by using the Google Cloud APIs, like the one for BigQuery and GCStorage, and the Apache Airfloe APIs. 
+"Feed Controller" is a tool that allows the monitoring of all the BigQuery entities in a project that are not fed because there's not a configuration related.
+
 
 ### Workflow
 
