@@ -25,6 +25,6 @@
 ### Class Diagram
 
 <p align="center">
-  <img src="doc\img\FEED_CONTROLLER_API_CLASS_DIAGRAM.png" />
+  <img src="doc\img\FEED_CONTROLLER_CLASS_DIAGRAM.png" />
 </p>
 <br>
