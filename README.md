@@ -18,6 +18,13 @@
 ### Workflow
 
 <p align="center">
-  <img src="doc\img\API_WORKFLOW_SCENARIO.png" />
+  <img src="doc\img\FEED_CONTROLLER_API_WORKFLOW_SCENARIO.png" />
+</p>
+
+
+### Class Diagram
+
+<p align="center">
+  <img src="doc\img\FEED_CONTROLLER_API_CLASS_DIAGRAM.png" />
 </p>
 <br>
